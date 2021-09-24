@@ -1,0 +1,37 @@
+#Q Is it a mammal?
+#Q Does it have stripes?
+#Q Is it a carnivore?
+#A Is it a tiger?
+#A Is it a zebra?
+#Q Does it live in the ocean?
+#Q Is it very big?
+#A Is it a whale?
+#A Is it a dolphin?
+#Q Is it raised on a farm?
+#Q Does it eat grass?
+#A Is it a cow?
+#A Is it a pig?
+#Q Is it considered a pet?
+#Q Does it guard the house?
+#A Is it a dog?
+#A Is it a cat?
+#A Is it a lion?
+#Q Does it live on land?
+#Q Does it fly?
+#A Is it an eagle?
+#Q Does it have a long body?
+#A Is it a snake?
+#Q Does it raised on a farm?
+#A Is it a chicken?
+#A Is it a penguin?
+#Q Does it have 4 legs?
+#Q Does it live in rivers and lakes?
+#A Is it a crocodile?
+#A Is it a turtle?
+#Q Does it have tentacles?
+#A Is it a octopus?
+#Q Is it a carnivore?
+#Q Is it very big?
+#A Is it a killer whale?
+#A Is it a shark?
+#A Is it a shrimp?
